@@ -1,2 +1,1 @@
-HI everyone
 var Name="";
